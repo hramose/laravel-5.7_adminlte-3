@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
-	<meta name="description" content="AdminLTE with Laravel 5.7; adminlte with laravel 5.7; Laravel 5.7 adminlte configuration; AdminLTE 3 with Laravel 5.7; adminlte 3 with laravel 5.7; Laravel 5.7 adminlte 3 configuration; AdminLTE-3 with Laravel 5.7; adminlte-3 with laravel 5.7; Laravel 5.7 adminlte-3 configuration; Laravel; Laravel 5.7; adminlte; adminlte 3; adminlte-3; AdminLTE with Laravel 5.7 2019; adminlte-3-laravel 5.7; Laravel 5.7-adminlte-configuration; ">
+	<meta name="description" content="AdminLTE with Laravel 5.7; adminlte with laravel 5.7; Laravel 5.7 adminlte configuration; AdminLTE 3 with Laravel 5.7; adminlte 3 with laravel 5.7; Laravel 5.7 adminlte 3 configuration; Laravel 5.7 adminlte 3; Laravel 5.7 adminlte-3; AdminLTE-3 with Laravel 5.7; adminlte-3 with laravel 5.7; Laravel 5.7 adminlte-3 configuration; Laravel; Laravel 5.7; adminlte; adminlte 3; adminlte-3; AdminLTE with Laravel 5.7 2019; adminlte-3-laravel 5.7; Laravel 5.7-adminlte-configuration; ">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
