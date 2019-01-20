@@ -9,7 +9,7 @@
             </div>
             <div class="card-body">
                 <p class="card-text">Simple Laravel 5.7 Adminlte 3 Starter Pack to get you started by <a href="https://github.com/thekiharani" target="_blank">Jay Kiharani</a></p>
-                <a href="#" class="btn btn-primary">Github Page</a>
+                <a href="https://github.com/thekiharani/laravel-5.7_adminlte-3/tree/master" class="btn btn-primary" target="_blank">Github Page</a>
             </div>
         </div>
     </div><!-- /.container-fluid -->
